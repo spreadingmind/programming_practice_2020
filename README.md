@@ -22,7 +22,7 @@
 #### Для пользователей Windows установить git
 * [Скачать](https://git-scm.com/download/win)
 
-#### Основное средство коммуникации курса - [чат в Telegram](https://t.me/joinchat/BNR8ZRZ-OtAIX4vA-XG87A)
+#### Основное средство коммуникации курса - [чат в Telegram](https://t.me/joinchat/BNR8ZVXSheznCEB3oZsdTQ)
 
 ### Часть 2
 * Сделать форк этого репозитория, для этого нужно нажать кнопку форк на главной странице сверху
