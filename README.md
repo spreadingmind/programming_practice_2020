@@ -17,7 +17,7 @@
 * Для курса нам хватит Community Edition, но вы можете получить лицензию, как студенты и скачать Professional (google it!)
 
 #### Установить Jupyter Notebook
-* [Установить (conda / pip)](https://www.jetbrains.com/pycharm/download)
+* [Установить (conda / pip)](https://jupyter.org/install)
 
 #### Для пользователей Windows установить git
 * [Скачать](https://git-scm.com/download/win)
